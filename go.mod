@@ -1,3 +1,3 @@
-module github.com/BoRuDa/go-semaphore
+module github.com/BoRuDa/semaphore
 
 go 1.12
