@@ -1,1 +1,1 @@
-module github.com/BoRuDa/semaphore
+module github.com/BoRuDar/semaphore
